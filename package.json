@@ -12,8 +12,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "aws-sdk": "^2.1570.0",
     "dotenv": "^16.4.5",
     "express": "^4.18.3",
+    "jimp": "^0.22.12",
+    "multer": "^1.4.5-lts.1",
+    "multer-s3": "^3.0.1",
+    "nanoid": "^3.3.4",
     "pg": "^8.11.3"
   },
   "devDependencies": {
